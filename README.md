@@ -168,6 +168,8 @@ $ crontab -e
 - 2021年1月29日 解决接触时间 1970-01-01的问题， 见 [issue 36](https://github.com/IanSmith123/ucas-covid19/issues/36)
 
 
+
+###
 # 致谢
 - 感谢 [karuboniru](https://github.com/IanSmith123/ucas-covid19/pull/1) 提供的github actions 支持
 - 感谢 [tyfulcrum](https://github.com/IanSmith123/ucas-covid19/pull/2) 对文档的完善工作
